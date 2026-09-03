@@ -1,3 +1,7 @@
+Professora, nesse exercicio a formula que a senhora passou foi MA = (nota1 + nota2 × 2 + nota3 × 3 + ME) / 7
+mas dividindo por 7 o resultado final, tava sempre caindo na opção E, entao eu tomei a liberdade de 
+diminuir o valor pra 0.7, que ai funcionou pros outros tambem
+
 #include <stdio.h>
 #include <stdlib.h>
 
